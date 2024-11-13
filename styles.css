@@ -1,12 +1,8 @@
 /* Your CSS Code here. */
-.boc{
-	margin:20px;
-	background-color:lightblue;
-	border:15px solid blue;
-	padding:50px;
-}
-#sty{
-	border: 1px solid black;
-	width:300px;
-	margin:auto;
-}
+.box {
+      width: 300px;                /* Width of the box */
+      background-color: lightblue; /* Background color */
+      border: 15px solid blue;     /* Border with 15px solid blue */
+      padding: 50px;               /* Padding inside the box */
+      margin: 20px;                /* Margin around the box */
+    }
